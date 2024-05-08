@@ -10,5 +10,5 @@ The code is optimized using Cython by creating a separate file cython_code.pyx w
 
 Overall, the code demonstrates good programming practices by modularizing the code into reusable components and optimizing performance using Cython.
 
-**Runtime Comparison**
+**Runtime Comparison:**
 The runtime comparison was performed using the time command in the terminal. The screenshot below shows the comparison of the runtimes.
